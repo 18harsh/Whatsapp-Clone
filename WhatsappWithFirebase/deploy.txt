@@ -1,0 +1,7 @@
+firebase login
+firebase init
+build
+npm run build
+firebase deploy
+
+https://whatsapp-mern-4603e.web.app/
